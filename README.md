@@ -1,2 +1,2 @@
-# week-7
-Train
+# Train times
+Train times app created with firebase
